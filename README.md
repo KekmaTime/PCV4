@@ -152,6 +152,12 @@
 - [ ] *Nonogram Generator and Solver*
 - [ ] *WMS viewer that isn't web based*
 
+# Fuck You
+
+- [ ] *Basic Relational Database Software*
+- [ ] *Basic Bootloader with extended file system*
+- [ ] *General Lambert's Problem Solver*
+
 
 
 
