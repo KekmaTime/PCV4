@@ -118,6 +118,66 @@
 - [ ] *Seam Carving*
 - [ ] *Bayesian Filter*
 
+# Hard
+
+- [ ] *Parametric/Graphic Equaliser for .wav files*
+- [ ] *Verlet Integration[Verlet Cloth]*
+- [ ] *Music Streaming*
+- [ ] *Sound Synthesis[Sine, Square,Sawtooth, etc] also add Realtime MIDI Playback with Custom instruments*
+- [ ] *Create a torrent[CLI/GUI]*
+- [ ] *Booru Client*
+- [ ] *Chan aggregator[Let user view various boards from different 'chans']*
+- [ ] *Make a Text Editor that autosaves and includes the date in the filename*
+- [ ] *OPENAI Gym Project*
+
+- [ ] *Convolutional Neural Network: Implement your own convultional neural network for handwritten digit recognition, test on MNIST Dataset[without Tenserflow, Theano, etc]*
+- [ ] *Make an application that is capable of mounting filesystems from other OSes usng the FUSE model*
+- [ ] *Pong Game as a UEFI file in color*
+- [ ] *Desgin an Esoteric Language*
+- [ ] *C Compiler*
+- [ ] *Turing Machine Simulator*
+- [ ] *Read, Evaluate Print Loop using a complied language*
+- [ ] *Chip-8 Emulator with Cached Intrepreter and Dynamic Recomplier , use dynarec/jit library*
+- [ ] *Ray Tracer*
+- [ ] *Real-Time Fast Fourier Transform Spectrum Visualizer*
+- [ ] *TI-86 Emulator*
+- [ ] *Monster Raising/Breeding Simulator*
+- [ ] *Dragon Quest/ Basic RPG Engine*
+- [ ] *First-Person Engine in OpenGL[Walking,Looking Around,Jumping on Obstacles]*
+- [ ] *Wolfenstein Clone[FPS,2D map that appears to 3D] refer DOOM-like Engines*
+- [ ] *Danmaku[Bullet Hell] Engine*
+- [ ] *Rogue Engine/Dungeon Generator*
+- [ ] *Go[No AI Necessary]*
+- [ ] *LISP Intrepreter*
+- [ ] *Nonogram Generator and Solver*
+- [ ] *WMS viewer that isn't web based*
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
