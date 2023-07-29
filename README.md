@@ -6,7 +6,6 @@
 - [ ] *Markov Chain Sentence Generator[Include Shitposting Capabiilties]*
 - [ ] *To-Do List Application[Web/CLI]*
 - [ ] *ChatBot[with conversation retention]*
-- [ ] *Image to ASCII Art*
 - [ ] *ImageBoard[Imagine vichan]*
 - [ ] *Create an HSV Color Representation*
 - [ ] *Port Scanner*
@@ -18,8 +17,8 @@
 - [ ] *Given an Array of Stock's values over time, find the period of time where the stocks could have made the most money*
 - [ ] *Highest Prime Factor Calculator*
 - [ ] *Password Generator with Multiple Options*
-- [x] *Caesar Cipher Cracker*
-- [ ] *ROT 13*
+- [x] *Caesar Cipher Cracker* <span style="color: #3B77A7;">Written in Python</span>
+- [x] *ROT 13*<span style="color: #8a3002;"> Written in Rust</span>
 - [ ] *Encrypt/Decrypt Text: Implement at least one from [Here](https://rumkin.com/tools/cipher/)*
 - [ ] *Youtube to Mp3*
 - [ ] *Text to Hexadecimal/Binary*
