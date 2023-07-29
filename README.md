@@ -18,7 +18,7 @@
 - [ ] *Given an Array of Stock's values over time, find the period of time where the stocks could have made the most money*
 - [ ] *Highest Prime Factor Calculator*
 - [ ] *Password Generator with Multiple Options*
-- [ ] *Caesar Cipher Cracker*
+- [x] *Caesar Cipher Cracker*
 - [ ] *ROT 13*
 - [ ] *Encrypt/Decrypt Text: Implement at least one from [Here](https://rumkin.com/tools/cipher/)*
 - [ ] *Youtube to Mp3*
