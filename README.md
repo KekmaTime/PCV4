@@ -21,7 +21,7 @@
 - [x] *ROT 13* [Written in Rust](https://github.com/KekmaTime/PCV4/blob/main/Easy/ROT13.rs)
 - [ ] *Encrypt/Decrypt Text: Implement at least one from [Here](https://rumkin.com/tools/cipher/)*
 - [ ] *Youtube to Mp3*
-- [x] *Text to Hexadecimal/Binary*[Written in C](https://github.com/KekmaTime/PCV4/blob/main/Easy/Text2Hex.c)
+- [x] *Text to Hexadecimal/Binary* [Written in C](https://github.com/KekmaTime/PCV4/blob/main/Easy/Text2Hex.c)
 - [ ] *Sierpinski Triangle*
 - [ ] *Basic Neural Network - Simulate individual neurons and their connections*
 - [ ] *Generate a Complimentary Color from any input color*
