@@ -1,4 +1,4 @@
-user_input = input("Enter a string")
+user_input = input("Enter the text you want to encrypt: ")
 encrypted_text = ""
 
 for character in user_input:
@@ -11,4 +11,4 @@ for character in user_input:
     else:
         encrypted_text += chr(ord(character) - 3)
 
-print("Modified string:", encrypted_text)
+print("Encrypted Text:", encrypted_text)
