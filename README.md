@@ -18,7 +18,7 @@
 - [ ] *Highest Prime Factor Calculator*
 - [ ] *Password Generator with Multiple Options*
 - [x] *Caesar Cipher Cracker* [Written in Python](https://github.com/KekmaTime/PCV4/blob/main/Easy/CaesarCipher.py)
-- [x] *ROT 13*[Written in Rust](https://github.com/KekmaTime/PCV4/blob/main/Easy/ROT13.rs)
+- [x] *ROT 13* [Written in Rust](https://github.com/KekmaTime/PCV4/blob/main/Easy/ROT13.rs)
 - [ ] *Encrypt/Decrypt Text: Implement at least one from [Here](https://rumkin.com/tools/cipher/)*
 - [ ] *Youtube to Mp3*
 - [ ] *Text to Hexadecimal/Binary*
