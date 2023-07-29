@@ -1,14 +1,14 @@
-user_input = input("Enter the text you want to encrypt: ")
-encrypted_text = ""
+user_input = input("Enter the text you want to decrypt: ")
+decrypted_text = ""
 
 for character in user_input:
-    if character == 'a':
-        encrypted_text += 'x'
-    elif character == 'b':
-        encrypted_text += 'y'
-    elif character == 'c':
-        encrypted_text += 'z'
+    if character == 'x':
+        decrypted_text += 'a'
+    elif character == 'y':
+        decrypted_text += 'b'
+    elif character == 'z':
+        decrypted_text += 'c'
     else:
-        encrypted_text += chr(ord(character) - 3)
+        decrypted_text += chr(ord(character) + 3)
 
-print("Encrypted Text:", encrypted_text)
+print("Decrypted Text:", decrypted_text)
