@@ -15,7 +15,8 @@
 - [ ] *Towers of Hanoi*
 - [x] *Calculate the first n digits of pi*  [Written in C](https://github.com/KekmaTime/PCV4/blob/main/Easy/N-Pi.c)
 - [ ] *Given an Array of Stock's values over time, find the period of time where the stocks could have made the most money*
-- [ ] *Highest Prime Factor Calculator*
+- [x] *Highest Prime Factor Calculator* [Written in Java](https://github.com/KekmaTime/PCV4/blob/main/Easy/LargestPrime.java)
+- [ ] *Given an Array of Stock's values over time, find the period of time where the stocks could have made the most money*
 - [ ] *Password Generator with Multiple Options*
 - [x] *Caesar Cipher Cracker* [Written in Python](https://github.com/KekmaTime/PCV4/blob/main/Easy/CaesarCipher.py)
 - [x] *ROT 13* [Written in Rust](https://github.com/KekmaTime/PCV4/blob/main/Easy/ROT13.rs)
