@@ -11,7 +11,7 @@
 - [ ] *Port Scanner*
 - [ ] *Old School Demo Effect[Plasma, Tunnel, Scrollers,Zoomers,etc]*
 - [ ] *RPN Calculator*
-- [ ] *Counts occurrences of characters in a Given String*
+- [x] *Counts occurrences of characters in a Given String* [Written in Rust](https://github.com/KekmaTime/PCV4/blob/main/Easy/CheckOccurences.rs)
 - [ ] *Towers of Hanoi*
 - [x] *Calculate the first n digits of pi*  [Written in C](https://github.com/KekmaTime/PCV4/blob/main/Easy/N-Pi.c)
 - [ ] *Given an Array of Stock's values over time, find the period of time where the stocks could have made the most money*
