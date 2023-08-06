@@ -1,25 +1,35 @@
-var apiKey = 'Y6VAMZXHF4GKMSSM';
-var symbol = 'GOOGL'; //you can use any other company code as
+const readline = require('readline');
+
+const r1 = readline.createInterface({
+    input: process.stdin,
+    output: process.stdout
+});
+
+let symbol;
+
+r1.question('Enter the Stock Name: ', (inputSymbol) => {
+    symbol = inputSymbol;
+    getStock(); 
+    r1.close();
+});
+
+const apiKey = 'Y6VAMZXHF4GKMSSM';
+
 
 async function getStock() {
-    var Url = 'https://www.alphavantage.co/query?function=TIME_SERIES_DAILY&symbol=GOOGL&apikey=' + apiKey;
-    
+    var url = 'https://www.alphavantage.co/query?function=TIME_SERIES_DAILY&symbol=' + symbol + '&apikey=' + apiKey;
+
     try {
-        var response = await fetch(Url);
+        var response = await fetch(url);
         var data = await response.json();
-
-        console.log(data);
-
         const timeSeries = data['Time Series (Daily)'];
         for (const date in timeSeries) {
             if (timeSeries.hasOwnProperty(date)) {
-              const dailyData = timeSeries[date];
-              console.log('Date:', date,'High:', dailyData['2. high']);
+                const dailyData = timeSeries[date];
+                console.log('Date:', date, 'High:', dailyData['2. high']);
             }
         }
-    } catch(error) {
+    } catch (error) {
         console.log('Error fetching data: ' + error);
     }
 }
-
-getStock();
