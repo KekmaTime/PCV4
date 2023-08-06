@@ -14,7 +14,7 @@
 - [x] *Counts occurrences of characters in a Given String* [Written in Rust](https://github.com/KekmaTime/PCV4/blob/main/Easy/CheckOccurences.rs)
 - [x] *Towers of Hanoi* [Written in JavaScript](https://github.com/KekmaTime/PCV4/blob/main/Easy/TowersOfHanoi.js)
 - [x] *Calculate the first n digits of pi*  [Written in C](https://github.com/KekmaTime/PCV4/blob/main/Easy/N-Pi.c)
-- [ ] *Given an Array of Stock's values over time, find the period of time where the stocks could have made the most money*
+- [x] *Given an Array of Stock's values over time, find the period of time where the stocks could have made the most money* [Written in JavaScript](https://github.com/KekmaTime/PCV4/blob/main/Easy/Stocks.js)
 - [x] *Highest Prime Factor Calculator* [Written in Java](https://github.com/KekmaTime/PCV4/blob/main/Easy/LargestPrime.java)
 - [ ] *Given an Array of Stock's values over time, find the period of time where the stocks could have made the most money*
 - [ ] *Password Generator with Multiple Options*
