@@ -15,21 +15,15 @@ r1.question('Enter the Stock Name: ', (inputSymbol) => {
 
 const apiKey = 'Y6VAMZXHF4GKMSSM';
 
-
 async function getStock() {
     var url = 'https://www.alphavantage.co/query?function=TIME_SERIES_DAILY&symbol=' + symbol + '&apikey=' + apiKey;
-
-    try {
-        var response = await fetch(url);
-        var data = await response.json();
-        const timeSeries = data['Time Series (Daily)'];
-        for (const date in timeSeries) {
-            if (timeSeries.hasOwnProperty(date)) {
-                const dailyData = timeSeries[date];
-                console.log('Date:', date, 'High:', dailyData['2. high']);
-            }
+    var response = await fetch(url);
+    var data = await response.json();
+    const timeSeries = data['Time Series (Daily)'];
+    for (const date in timeSeries) {
+        if (timeSeries.hasOwnProperty(date)) {
+            const dailyData = timeSeries[date];
+            console.log('Date:', date, 'High:', dailyData['2. high']);
         }
-    } catch (error) {
-        console.log('Error fetching data: ' + error);
     }
 }
