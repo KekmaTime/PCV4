@@ -35,4 +35,13 @@ window = Tk()
 window.title("Snake LMAO LOL")
 window.resizable(False, False)
 
+score = 0
+direction = 'down'
+
+label = Label(window, text="Score:{}".format(score), font=('consolas',40))
+label.pack()
+
+canvas = Canvas(window, bg=BACKGROUND_COLOR, width=GAME_WIDTH, height=GAME_HEIGHT)
+canvas.pack()
+
 window.mainloop()
