@@ -11,24 +11,24 @@
 - [ ] *Port Scanner*
 - [ ] *Old School Demo Effect[Plasma, Tunnel, Scrollers,Zoomers,etc]*
 - [ ] *RPN Calculator*
-- [x] *Counts occurrences of characters in a Given String* [Written in Rust](https://github.com/KekmaTime/PCV4/blob/main/Easy/CheckOccurences.rs)
-- [x] *Towers of Hanoi* [Written in JavaScript](https://github.com/KekmaTime/PCV4/blob/main/Easy/TowersOfHanoi.js)
-- [x] *Calculate the first n digits of pi*  [Written in C](https://github.com/KekmaTime/PCV4/blob/main/Easy/N-Pi.c)
-- [x] *Given an Array of Stock's values over time, find the period of time where the stocks could have made the most money* [Written in JavaScript](https://github.com/KekmaTime/PCV4/blob/main/Easy/Stocks.js)
-- [x] *Highest Prime Factor Calculator* [Written in Java](https://github.com/KekmaTime/PCV4/blob/main/Easy/LargestPrime.java)
+- [x] *Counts occurrences of characters in a Given String* [Written in Rust](https://github.com/KekmaTime/PCV4/blob/main/Easy/Rust/CheckOccurences.rs)
+- [x] *Towers of Hanoi* [Written in JavaScript](https://github.com/KekmaTime/PCV4/blob/main/Easy/JavaScript/TowersOfHanoi.js)
+- [x] *Calculate the first n digits of pi*  [Written in C](https://github.com/KekmaTime/PCV4/blob/main/Easy/C/N-Pi.c)
+- [x] *Given an Array of Stock's values over time, find the period of time where the stocks could have made the most money* [Written in JavaScript](https://github.com/KekmaTime/PCV4/blob/main/Easy/JavaScript/Stocks.js)
+- [x] *Highest Prime Factor Calculator* [Written in Java](https://github.com/KekmaTime/PCV4/blob/main/Easy/Java/LargestPrime.java)
 - [ ] *Password Generator with Multiple Options*
-- [x] *Caesar Cipher Cracker* [Written in Python](https://github.com/KekmaTime/PCV4/blob/main/Easy/CaesarCipher.py)
-- [x] *ROT 13* [Written in Rust](https://github.com/KekmaTime/PCV4/blob/main/Easy/ROT13.rs)
+- [x] *Caesar Cipher Cracker* [Written in Python](https://github.com/KekmaTime/PCV4/blob/main/Easy/Python/CaesarCipher.py)
+- [x] *ROT 13* [Written in Rust](https://github.com/KekmaTime/PCV4/blob/main/Easy/Rust/ROT13.rs)
 - [ ] *Encrypt/Decrypt Text: Implement at least one from [Here](https://rumkin.com/tools/cipher/)*
 - [ ] *Youtube to Mp3*
-- [x] *Text to Hexadecimal/Binary* [Written in C](https://github.com/KekmaTime/PCV4/blob/main/Easy/Text2Hex.c)
+- [x] *Text to Hexadecimal/Binary* [Written in C](https://github.com/KekmaTime/PCV4/blob/main/Easy/C/Text2Hex.c)
 - [ ] *Sierpinski Triangle*
 - [ ] *Basic Neural Network - Simulate individual neurons and their connections*
 - [ ] *Generate a Complimentary Color from any input color*
 - [ ] *Eulerian Path*
 - [ ] *Draw a spinning 3D Cube*
 - [ ] *Cellular Textures*
-- [ ] *Snake*
+- [x] *Snake* [Written in Python](https://github.com/KekmaTime/PCV4/blob/main/Easy/Python/snake.py)
 - [ ] *Rock Paper Scissors*
 - [ ] *Design a Game Engine in Unity*
 - [ ] *Yahtzee*
